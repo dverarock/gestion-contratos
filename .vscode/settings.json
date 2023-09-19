@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/81b36a9b-f88e-4cf1-b081-8f23bd3b3416/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/front-gestion",
+    "appService.deploySubpath": "."
 }
